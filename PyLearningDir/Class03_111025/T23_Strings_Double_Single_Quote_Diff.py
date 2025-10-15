@@ -15,5 +15,3 @@ print(t2)
 p = r"https://chat.openai.com/c/b890b1e3-5c56-41cf-bedb-983508f9a824"
 print(p)
 
-
-

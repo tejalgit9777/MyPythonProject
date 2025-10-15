@@ -1,6 +1,6 @@
 # Builtin Functions - pre-defined by python
 
-print(pow(3,2,2))
+print(pow(3,2,4))
 test = abs(-2)
 print(test)
 
