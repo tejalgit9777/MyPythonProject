@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="066ea395-8659-4739-8cc8-86d2bac20241" name="Changes" comment="Commit 11/10/2025">
-      <change afterPath="$PROJECT_DIR$/.idea/MyPythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="066ea395-8659-4739-8cc8-86d2bac20241" name="Changes" comment="Committed 14/10/2025">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Arithmetic_Op_2.executor": "Run",
     "Python.T023_Strings_Double_Single_Quote_Diff.executor": "Run",
     "Python.T04_Variables_Part2.executor": "Run",
     "Python.T05_Dynamically_Type.executor": "Run",
@@ -70,6 +66,29 @@
     "Python.T20_Strings_Part2.executor": "Run",
     "Python.T21_Strings_Part3.executor": "Run",
     "Python.T22_Escape_Char.executor": "Run",
+    "Python.T23_Strings_Double_Single_Quote_Diff (1).executor": "Run",
+    "Python.T25_Operators.executor": "Run",
+    "Python.T26_Coparision_op.executor": "Run",
+    "Python.T27_Unery_Operator.executor": "Run",
+    "Python.T28_Logical_Operators.executor": "Run",
+    "Python.T29_Operators_3.executor": "Run",
+    "Python.T30_Assignment_Operatoors.executor": "Run",
+    "Python.T31_Membership_Operators.executor": "Run",
+    "Python.T32_Ternary_Operators.executor": "Run",
+    "Python.T33_Task_Triangle_Area.executor": "Run",
+    "Python.T34_Task_Check_Number.executor": "Run",
+    "Python.T35_If_Condition.executor": "Run",
+    "Python.T36_Condition_Optimized.executor": "Run",
+    "Python.T37_Else_If.executor": "Run",
+    "Python.T37_Nested_Else_If.executor": "Run",
+    "Python.T38_Else_If.executor": "Run",
+    "Python.T39_Grade_Calculator.executor": "Run",
+    "Python.T40_Task_1.executor": "Run",
+    "Python.T42_Task2.executor": "Run",
+    "Python.T43_Task4.executor": "Run",
+    "Python.T44_Task3.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
     "Python.class_071025_T01.executor": "Run",
     "Python.class_091025_T02.executor": "Run",
     "Python.class_091025_T03.executor": "Run",
@@ -83,8 +102,8 @@
       <recent name="C:\Users\bhavi\PycharmProjects\MyPythonProject\PyLearningDir\Class_071025" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.T023_Strings_Double_Single_Quote_Diff">
-    <configuration name="T023_Strings_Double_Single_Quote_Diff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.T42_Task2">
+    <configuration name="T36_Condition_Optimized" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyLearningDir/Class03_111025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyLearningDir/Class05_161025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyLearningDir/Class03_111025/T023_Strings_Double_Single_Quote_Diff.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyLearningDir/Class05_161025/T36_Condition_Optimized.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="T19_Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="T40_Task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyLearningDir/Class03_111025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyLearningDir/Class05_161025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyLearningDir/Class03_111025/T19_Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyLearningDir/Class05_161025/T40_Task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="T20_Strings_Conversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="T42_Task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyLearningDir/Class03_111025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyLearningDir/Class05_161025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\bhavi\PycharmProjects\MyPythonProject\PyLearningDir\Class03_111025\T20_Strings_Conversion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyLearningDir/Class05_161025/T42_Task2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="T21_Strings_Part3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="T43_Task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyLearningDir/Class03_111025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyLearningDir/Class05_161025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyLearningDir/Class03_111025/T21_Strings_Part3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyLearningDir/Class05_161025/T43_Task4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="T22_Escape_Char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="T44_Task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyLearningDir/Class03_111025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyLearningDir/Class05_161025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyLearningDir/Class03_111025/T22_Escape_Char.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyLearningDir/Class05_161025/T44_Task3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.T023_Strings_Double_Single_Quote_Diff" />
-        <item itemvalue="Python.T22_Escape_Char" />
-        <item itemvalue="Python.T21_Strings_Part3" />
-        <item itemvalue="Python.T20_Strings_Conversion" />
-        <item itemvalue="Python.T19_Strings" />
+        <item itemvalue="Python.T42_Task2" />
+        <item itemvalue="Python.T44_Task3" />
+        <item itemvalue="Python.T43_Task4" />
+        <item itemvalue="Python.T40_Task_1" />
+        <item itemvalue="Python.T36_Condition_Optimized" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +270,47 @@
       <option name="project" value="LOCAL" />
       <updated>1760214473127</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Committed 12/10/2025">
+      <option name="closed" value="true" />
+      <created>1760291013741</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760291013741</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Committed 12/10/2025">
+      <option name="closed" value="true" />
+      <created>1760291030980</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760291030980</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Committed 12/10/2025">
+      <option name="closed" value="true" />
+      <created>1760291149192</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760291149192</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Committed 14/10/2025">
+      <option name="closed" value="true" />
+      <created>1760553615825</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760553615825</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Committed 14/10/2025">
+      <option name="closed" value="true" />
+      <created>1760553892800</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760553892800</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -259,6 +318,8 @@
     <MESSAGE value="test2" />
     <MESSAGE value="Commit 09/10/2025" />
     <MESSAGE value="Commit 11/10/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 11/10/2025" />
+    <MESSAGE value="Committed 12/10/2025" />
+    <MESSAGE value="Committed 14/10/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committed 14/10/2025" />
   </component>
 </project>
