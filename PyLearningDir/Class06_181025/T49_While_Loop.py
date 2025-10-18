@@ -11,7 +11,7 @@ while i<10:
 print("\n")
 
 j=2
-while i<10:
+while j<10:
     print("Shine Star!",j)
     j+=1
 #print("\n")
