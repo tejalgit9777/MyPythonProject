@@ -10,7 +10,7 @@ for i in range(1, n):
 
 # while loop
 j = 1
-while j <= n:
+while j <= 20:
     if j % 2 == 0:
         print(j)
     j += 1
