@@ -1,4 +1,4 @@
-# Set is Immutable but not allow duplicate items
+# Set is Mutable but not allow duplicate items
 """
     Test Test
 """
