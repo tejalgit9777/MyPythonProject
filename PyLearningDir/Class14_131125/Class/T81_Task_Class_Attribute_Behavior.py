@@ -34,9 +34,9 @@ class School:
 
 LMV=School()
 print(LMV.m_studyclass())                         # No parameter
-print(LMV.m_subject("Science"))                # One parameter
-LMV.m_student("Siya", 21)                # Multiple parameters
-LMV.m_medium()                          # No parameter
+print(LMV.m_subject("Science"))                   # One parameter
+LMV.m_student("Siya", 21)             # Multiple parameters
+LMV.m_medium()                                    # No parameter
 print(LMV.m_schoolname("Bright School", "Vadodara"))  # With parameters
 
 
