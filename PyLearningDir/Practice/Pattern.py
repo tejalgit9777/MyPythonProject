@@ -35,10 +35,24 @@
 n = 7  # Must be an odd number for a symmetric diamond
 mid = n // 2  # Middle index
 
-for i in range(n):
-    for j in range(n):
-        if abs(i - mid) + abs(j - mid) == mid:
-            print("*", end="")
-        else:
-            print(" ", end="")
+# for i in range(n):
+#     for j in range(n):
+#         if abs(i - mid) + abs(j - mid) == mid:
+#             print("*", end="")
+#         else:
+#             print(" ", end="")
+#     print()
+
+s = int(input("Enter the Number "))
+for x in range(1, s, 1):
+    for y in range(s - x):
+        print(" ", end=" ")
+    for z in range(2 * x - 1):
+        print("*", end= " ")
+    print()
+for x in range(s, 0, -1):
+    for y in range(s - x):
+        print(" ", end=" ")
+    for z in range(2 * x - 1):
+        print("*", end=" ")
     print()
